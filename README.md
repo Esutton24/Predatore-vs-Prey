@@ -1,1 +1,2 @@
 # Predatore-vs-Prey
+This project is based on simulations of how predator and prey popuilations within an ecosystem fluctuate based on various factors. It is built within MATLAB. Starting out, I used the Lotka–Volterra model to show the impact predation has on prey with no external factors. As I create more simulations, I plan to bring in more factors,  such as competition for resources, introduction of new species, time scale, and more.
